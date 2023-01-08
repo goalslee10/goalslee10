@@ -11,8 +11,6 @@ ___
 ## 💻 ...
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <a href = "hun-se.slack.com"> <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goalslee10&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=goalslee10&show_icons=true">
 
 
 <!--
