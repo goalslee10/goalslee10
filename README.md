@@ -2,7 +2,7 @@
 ### I'm goals Lee, Junior Developer from Seoul, Republic of Korea
 ___
 ### About me
-##### 🌱 I'm currently learning Basic Programming skills like Java, Spring, Python, Javascript, Next.js etc..
+##### 🌱 I'm currently learning Basic Programming skills like Java, Spring, Python, Javascript, Next.js, sql etc..
 ##### 📫 How to reach me: goals1025@gmail.com
 
 ### 📚 Languages and Tools
