@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm HaeMin Lee, Junior Developer from Seoul, Republic of Korea
+### I'm goals Lee, Junior Developer from Seoul, Republic of Korea
 ___
 ### About me
 ##### 🌱 I'm currently learning Basic Programming skills like Java, Python, Javascript, etc..
